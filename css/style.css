@@ -1,0 +1,38 @@
+body{
+    border: 1px solid red;
+    padding: 20px;
+
+}
+.tappe{
+    border: 1px solid rgb(0, 255, 76);
+    margin-left: 10px;
+    margin-right: 22px;
+    text-align: center;
+    padding: 10px;
+}    
+.gal-item{
+    border: 1px solid rgb(38, 0, 255);
+    width: calc(25% - 25px);
+    height: 100px;
+    background-color: silver;
+    float: left;
+    margin: 10px;
+   
+}
+.fet_item{
+    border: 1px solid greenyellow;
+    height: 150px;
+    width: calc(33.33% - 22px);
+    background-color: rgb(59, 37, 187);
+    float: left;
+    margin: 10px;
+    
+}
+.honse{
+    border: 1px solid rgb(0, 225, 255);
+    clear: both;
+    padding: 10px;
+    text-align: center;
+    margin-left: 12px;
+    margin-right: 10px;
+}
